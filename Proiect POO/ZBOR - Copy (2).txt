@@ -1,0 +1,6 @@
+
+NR.ZBOR		NUME COMPANIE			ORIGINE			DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+W63087		WIZZAIR			BUCURESTI				GENEVA			2000			120			12:40		50			200
+LH1655		MUNCHEN				AMSTERDAM			1200   			100			120			23:23		120			3300
+FR7626		AIRFRANCE				BUCURESTI			PARIS   			2000			200			12:30		20			100

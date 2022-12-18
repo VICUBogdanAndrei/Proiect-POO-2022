@@ -1,0 +1,3 @@
+NR.ZBOR		NUME COMPANIE			ORIGINE			DESTINATIE		DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10000			WIZZAIR				BUCURESTI			BUDAPESTA		1200			100			12:10		20			240

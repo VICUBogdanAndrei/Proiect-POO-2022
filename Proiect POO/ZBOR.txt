@@ -1,0 +1,46 @@
+
+NR.ZBOR		NUME COMPANIE			ORIGINE			DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WZ1234		WIZZAIR				BUCURESTI			LUTON   			2000			180			12:30		200			1000
+TK8592		TURKISH				INSTANBUL			MADRID			2300			300			10:30		200			2000
+LH1650		LUFTHANSA				MUNCHEN			DUBAI   			3000			250			8:45		300			1500
+
+NR.ZBOR		NUME COMPANIE			ORIGINE			DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+W94481		WIZZAIR				LONDRA-LUTON			BRATISLAVA			2000			180			12:35		20			150
+FR339		RYANAIR				LONDRA-LUTON			DUBLIN			1000			80			13:10		50			150
+EZY2025		EASYJET				LONDRA-LUTON			LANZAROTE			2000			190			12:50		300			1000
+W61304		WIZZAIR				LONDRA-LUTON			WARSAW-CHOPIN			2500			200			14:20		150			300
+W63306		WIZZAIR				LONDRA-LUTON			CLUJ-NAPOCA			3000			200			14:45		20			200
+
+NR.ZBOR		NUME COMPANIE			ORIGINE			DESTINATIE				DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+RYANAIR   		RYANAIR				LONDRA-LUTON			DUBLIN			1000			80			12:40		20			100
+
+NR.ZBOR		NUME COMPANIE			ORIGINE				DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FR339   		RYANAIR				LONDRA			DUBLIN			1000			80			12:45		10			100
+
+NR.ZBOR		NUME COMPANIE			ORIGINE				DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FR339   		RYANAIR           LONDRA-LUTON            DUBLIN                  1000			80			12:45		20			100
+
+NR.ZBOR		NUME COMPANIE			ORIGINE				DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FR339   		RYANAIR           RYANAIR				LONDRA-LUTON		DUBLIN			1000			80			12:45		10			100
+
+NR.ZBOR		NUME COMPANIE			ORIGINE				DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+FR339   		RYANAIR				LONDRA-LUTON		DUBLIN			1000			80			10:45		10			100
+
+NR.ZBOR		NUME COMPANIE			ORIGINE				DESTINATIE			DISTANTA		DURATA		TIME		PRET MIN (USD)	PRET MAX (USD)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+W12345		WIZZAIR				BUCURESTI		BUDAPSTA		1000			120			12:30		10			100
