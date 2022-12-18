@@ -27,3 +27,4 @@ Ticketing App
 -> In fisierul Schema_POO.png se regaseste idee de proiect, asa cum am gandit tot codul si cum va urma sa fie redactat.
    Este ajutator pentru a intelege cum functioneaza clasele intre ele.
    
+
