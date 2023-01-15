@@ -1,0 +1,12 @@
+﻿  Pasager.cpp
+  Source.cpp
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Source.cpp(43,69): error C2661: 'Zbor::Zbor': no overloaded function takes 9 arguments
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Source.cpp(55,71): error C2661: 'Zbor::Zbor': no overloaded function takes 9 arguments
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Source.cpp(161,26): error C2664: 'Bilet::Bilet(std::string,bool,char *,std::string)': cannot convert argument 4 from 'Avion' to 'std::string'
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Source.cpp(161,24): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Bilet.h(44,2): message : see declaration of 'Bilet::Bilet'
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Source.cpp(171,30): error C2664: 'Bilet::Bilet(std::string,bool,char *,std::string)': cannot convert argument 4 from 'Avion' to 'std::string'
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Source.cpp(171,28): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\J1\Desktop\1. proiect OOP\Proiect POO\Bilet.h(44,2): message : see declaration of 'Bilet::Bilet'
+  Zbor.cpp
+  Generating Code...
